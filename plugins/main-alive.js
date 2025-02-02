@@ -4,7 +4,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
 
     // Sound
     let name = m.pushName || conn.getName(m.sender)
-    var vn = "https://i.imgur.com/1gNOp86.mp4"
+    var vn = "./Assets/ALIVE.mp3"
     let url = "https://github.com/obitoxd/OBITO-BOTZZ"
     let murl = "https://instagram.com/_.obito_uchiha_786"
     let img = "https://i.imgur.com/hqcAYQg.jpg"
@@ -16,7 +16,7 @@ let handler = async(m, { conn, text, usedPrefix, command }) => {
         mimetype: 'audio/mp4',
         ptt: true,
         waveform:  [100, 0, 100, 0, 100, 0, 100],
-        fileName: "𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭",
+        fileName: "Guru",
     
         contextInfo: {
           mentionedJid: [m.sender],
