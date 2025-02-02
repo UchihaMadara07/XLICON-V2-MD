@@ -29,7 +29,7 @@ let handler = async (_0x522480, {
         'key': _0x40c367.key,
         'type': 0xe,
         'editedMessage': {
-          'conversation': "𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭 𝗟𝗔𝗧𝗘𝗡𝗖𝗬: " + _0x34dddc + " ms"
+          'conversation': "𝗕𝗢𝗧 𝗟𝗔𝗧𝗘𝗡𝗖𝗬: " + _0x34dddc + " ms"
         }
       }
     }, {});
