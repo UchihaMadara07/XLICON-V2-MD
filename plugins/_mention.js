@@ -12,7 +12,7 @@ handler.all = async function (m, conn) {
     let url = "https://github.com/obitoxd/OBITO-BOTZZ"
     let murl = "https://instagram.com/_.obito_uchiha_786"
     let hash = global.botname
-    let img = "https://i.imgur.com/Qfmbvnt.jpg"
+    let img = "https://avatars.githubusercontent.com/u/120536940?v=4"
     let num = ["918101821810"]
 
     let doc = {
@@ -22,7 +22,7 @@ handler.all = async function (m, conn) {
         mimetype: 'audio/mpeg',
         ptt: true,
         waveform: [0,99,0,99,0,99,0],
-        fileName: "𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭",
+        fileName: "Guru",
     
         contextInfo: {
           mentionedJid: [m.sender],
