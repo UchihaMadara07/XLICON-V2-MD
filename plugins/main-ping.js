@@ -11,7 +11,7 @@ let handler = async (_0x522480, {
     },
     'message': {
       'contactMessage': {
-        'displayName': "XLICON-V2",
+        'displayName': "𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭",
         'vcard': "BEGIN:VCARD\nVERSION:3.0\nN:;a,;;;\nFN:'XLICON-V2'\nitem1.TEL;waid=" + _0x522480.sender.split('@')[0x0] + ':' + _0x522480.sender.split('@')[0x0] + "\nitem1.X-ABLabel:Ponsel\nEND:VCARD"
       }
     }
@@ -29,7 +29,7 @@ let handler = async (_0x522480, {
         'key': _0x40c367.key,
         'type': 0xe,
         'editedMessage': {
-          'conversation': "yeah lets go ! Latency: " + _0x34dddc + " ms"
+          'conversation': "𝗢𝗕𝗜𝗧𝗢-𝗕𝗢𝗧𝗭𝗭 𝗟𝗔𝗧𝗘𝗡𝗖𝗬: " + _0x34dddc + " ms"
         }
       }
     }, {});
